@@ -1,0 +1,2 @@
+dataset,file_path,file_name,error_type,error_message
+BraTS_2026_GoAT_Training_Sem_Labels,D:\brats_goat_experiments\data\raw_oficial_training_validation_set\MICCAI2024-BraTS-GoAT-TrainingData-WithOut-GroundTruth\BraTS-GoAT-01559\BraTS-GoAT-01559-t2w.nii.gz,BraTS-GoAT-01559-t2w.nii.gz,error,Error -3 while decompressing data: invalid stored block lengths
